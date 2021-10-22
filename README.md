@@ -25,7 +25,7 @@
 -👀 I’m interested in Python, Machine Learning, IoT, IIoT <br>
 -🌱 I’m currently learning Python libraries for Data analysis and machine learning<br>
 -💞️ I’m looking to collaborate on Data Science & ML/AI<br>
--📫 How to reach me [Linkedin Profile](https://https://linkedin.com/in/suleman-sayyed-772099)   -- https://linkedin.com/in/suleman-sayyed-772099 
+-📫 How to reach me [Linkedin Profile](https://linkedin.com/in/suleman-sayyed-772099)   -- https://linkedin.com/in/suleman-sayyed-772099 
 
 
 <br>
