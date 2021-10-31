@@ -34,4 +34,4 @@
 <br>
 
 
-#  <h1 align="center"> <font color= "on_blue">🙏Glad to see you here! </font> </h1>
+#  <h1 align="center"> 🙏Glad to see you here! </h1>
